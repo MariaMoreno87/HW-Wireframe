@@ -19,6 +19,7 @@ header {
 
   body { 
       background-color: gray; 
+      margin: 8%;
       
   }
 
@@ -34,7 +35,6 @@ header {
       background-color: turquoise;
       float: left;
       width: 45%;
-      height: 50px;
     background-position: center;
       
       
